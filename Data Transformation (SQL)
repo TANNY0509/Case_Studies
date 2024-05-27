@@ -1,4 +1,4 @@
---data cleaning
+--data cleaning 
 
 --checking the total number of rows
 SELECT COUNT(*)
